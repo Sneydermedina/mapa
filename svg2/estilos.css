@@ -1,0 +1,120 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+svg{
+  max-width: 10000px;
+}
+.oculto{
+  display: none;
+}
+.visible{
+  display: block;
+}
+
+.colombia{
+  width: 740px;
+  height: 740px;
+  margin-top: 100px;
+  margin-left: 100px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+.departamentos{
+  width: 740px;
+  height: 740px;
+  margin-top: 100px;
+  margin-left: 100px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+.colombia svg{
+
+}
+.departamentos svg{
+
+}
+/* path{
+  fill: rgba(122, 31, 94, 0.4);
+  stroke: #ddd;
+} */
+path:hover{
+  fill: rgba(122, 31, 94, 0.6);
+}
+
+
+
+
+
+
+
+.departamentos g#sucre{
+  fill: green;
+}
+.departamentos g#cordoba{
+  fill: pink;
+}.departamentos g#santander{
+  fill: orange;
+}.departamentos g#nortedesantander{
+  fill: red;
+}.departamentos g#nariño{
+  fill: purple;
+}.departamentos g#vichada{
+  fill: blue;
+}.departamentos g#guainia{
+  fill: yellow;
+}.departamentos g#vaupes{
+  fill: gray;
+}.departamentos g#guajira{
+  fill: pink;
+}.departamentos g#atlantico{
+  fill: yellow;
+}.departamentos g#cesar{
+  fill: blue;
+}.departamentos g#bolivar{
+  fill: red;
+}.departamentos g#arauca{
+  fill: gray;
+}.departamentos g#cundinamarca{
+  fill: purple;
+}.departamentos g#choco{
+  fill: orange;
+}.departamentos g#valledelcauca{
+  fill: pink;
+}.departamentos g#cauca{
+  fill: green;
+}.departamentos g#tolima{
+  fill: red;
+}.departamentos g#huila{
+  fill: yellow;
+}.departamentos g#quindio{
+  fill: red;
+}.departamentos g#boyaca{
+  fill: orange;
+}.departamentos g#antioquia{
+  fill: purple;
+}.departamentos g#amazonas{
+  fill: gray;
+}.departamentos g#putumayo{
+  fill: pink;
+}.departamentos g#caqueta{
+  fill: green;
+}.departamentos g#casanare{
+  fill: red;
+}.departamentos g#meta{
+  fill: blue;
+}.departamentos g#risaralda{
+  fill: yellow;
+}.departamentos g#magdalena{
+  fill: orange;
+}
+.departamentos g#guaviare{
+  fill: red;
+}.departamentos g#caldas{
+  fill: blue;
+}
